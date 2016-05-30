@@ -1,0 +1,4 @@
+Gamelogic class
+    added new variable myuser: User
+    reason: if we don't have this variable, we cannot get methods for logging people in, Gamelogic class would return errors because
+    the methods it needs from User class would not exist
